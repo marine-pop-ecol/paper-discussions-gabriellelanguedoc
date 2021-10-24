@@ -1,19 +1,39 @@
 ---
-title: "Favaro et al. (2014) Paper Summary"
-author: "Cole Brookson, Alex Davis"
+title: "Crouse et al. (1987) Paper Summary"
+author: "Gabrielle Languedoc, Brenna Lewis, Samantha Foley, Hannah Levit"
 date: "10/13/2021"
 output:
     pdf_document
+editor_options: 
+  markdown: 
+    wrap: 72
 ---
 
-## Broad Questions
+## Paper Summary
+This paper aimed to use stage class matrix modeling systems to understand the population dynamics of Loggerhead Sea Turtles (*Caretta caretta*) which are a threatened species that inhabit the South Eastern coast of the United States. The researchers did this using population projections from the literature and analyzing the sensitivity of different life history stages. The data was then compared to current conservation strategies. Turtle data was separated into 7 life stages based on size (cm). Researchers found that the most sensitive life stage was the Juvenile loggerhead because of vulnerability to fishing and that this life stage had relatively little protection management. Comparatively the egg stage on nesting beaches was one of the least sensitive stages and had the focus of the majority of conservation efforts. This paper highlights the importance of life history data on informing efficient conservation management practices. 
 
-## Changing Viewpoints
+## Key Terms
+**Fecundity** - the capacity for reproduction (ie fertility)
+**Survivorship** - individuals able to survive to a certain age
+**Sensitivity** - how x changes for some change in any Pij - ie how the population growth changes in response to a change in survivorship at a certain life stage  
+**Stage class matrix** - using life history stages to model population dynamics 
+**Carapace** - widest width of a turtles shell 
+**Cohort**- a group of organisms of the same species that are born during the same reproductive event
+**Strand**- turtles that are washed up on the beach, dead or dying. 
+**TEDs** - Trawl Efficiency Device - keeps turtles and other large objects from being caught in trawling nets when collecting shrimp  
+**Iteroparous**- Organisms that reproduce multiple times in their life history
 
-## Connections
+## General Questions
 
-## Epistomology
+#1. Why do you think that marine turtle conservation is focused on reducing egg mortality?
+Researchers are easily able to access turtle nesting beaches, allowing them to record and monitor fecundity, survival and mortality of hatchlings. The spectacle of watching the baby turtles hatching and running toward the ocean is a widely adored phenomenon and is often  publicized. Conservation efforts were initially set up to recover egg populations after human poaching drastically reduced their numbers. As a result, the focus of turtle conservation has since been on restoring egg populations rather than on the juvenile life stage that would actually increase the population to a restorative measure. 
 
-## How Science Happens
+#2. Why is age-specific data important for conservation practices?
+Depending on the age or life stage of an organism, survivorship and fecundity will be different as well as the sensitivity and elasticity. This information can inform efficient conservation practices because money, time and effort should be lent towards something that will yield the most sustainable results, and is not simply the easiest to do. For example, the model highlights that saving the young hatchlings or turtle eggs does not help recover a declining turtle population, however focussing protection efforts on large juveniles was shown to increase the turtle population.
 
+#3. What are the benefits of using population matrices?
+They can help you estimate how population dynamics will change over time given changes in certain parameters. By simulating the same proportional change at each life stage, you can estimate the sensitivity and elasticity of life stages to changes in a parameter of interest. This may help identify which life stages wildlife management efforts should focus on and be more efficient in protecting the overall population. 
+
+#4. What were the main results of this paper?
+The model suggests that juveniles were the most sensitive life stage, suggesting that no matter how much effort conservation management puts into protecting eggs on the beach, this alone cannot restore the population or prevent extinction of the species. Populations of juvenile turtles have been devastated by fishing bycatch, trawls, and stranding events, putting Loggerhead turtles at even further risk of extinction. They simulated a scenario that suggested that even with little egg production, increases in juvenile and adult survival caused the simulated populations to grow. They also expressed the importance of including TEDs on fishing boats and how it would aid in the increase in juvenile and adult turtle survival. 
 
