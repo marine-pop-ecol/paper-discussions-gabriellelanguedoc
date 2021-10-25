@@ -8,4 +8,65 @@ editor_options:
   markdown: 
     wrap: 72
 ---
+## Paper Summary
+This paper aimed to use stage class matrix modeling systems to understand the population dynamics of Loggerhead Sea Turtles (*Caretta caretta*) which are a threatened species that inhabit the South Eastern coast of the United States. The researchers did this using population projections from the literature and analyzing the sensitivity of different life history stages. The data was then compared to current conservation strategies. Turtle data was separated into 7 life stages based on size (cm). Researchers found that the most sensitive life stage was the Juvenile loggerhead because of vulnerability to fishing and that this life stage had relatively little protection management. Comparatively the egg stage on nesting beaches was one of the least sensitive stages and had the focus of the majority of conservation efforts. This paper highlights the importance of life history data on informing efficient conservation management practices. 
 
+
+## Key Terms
+- **Fecundity** :The capacity for reproduction (ie fertility)
+
+- **Survivorship**:Individuals able to survive to a certain age
+
+- **Sensitivity**:how lambda changes for some change in any parameter P_(ij) 
+
+- **Stage class matrix**:Using life history stages to model population dynamics 
+
+- **Carapace** :Widest width of a turtles shell
+
+- **Biological Cohort**:A group of organisms of the same species that are born during the same reproductive event
+
+- **Strand**:Turtles that are washed up on the beach, dead or dying. 
+
+- **TEDs**: Trawl Efficiency Device - keeps turtles and other large objects from being caught in trawling nets when collecting shrimp  
+
+- **Iteroparous**:Organisms that reproduce multiple times in their life history
+
+
+## General Questions
+
+# 1. What are the benefits of using population matrices?
+They can help you estimate how population dynamics will change over time given changes in certain parameters. By simulating the same proportional change at each life stage, you can estimate the sensitivity and elasticity of life stages to changes in a parameter of interest, giving you the ability to compare life stages. This may help identify which life stages wildlife management efforts should focus on and be more efficient in protecting the overall population. 
+
+# 2. Why is age-specific data important for conservation practices?
+Depending on the age or life stage of an organism, survivorship and fecundity will be different as well as the sensitivity and elasticity. This information can inform efficient conservation practices because money, time and effort should be lent towards something that will yield the most sustainable results, and is not simply the easiest to do. For example, the model highlights that saving the young hatchlings or turtle eggs does not help recover a declining turtle population, however focussing protection efforts on large juveniles was shown to increase the turtle population.
+
+# 3. Why do you think that marine turtle conservation is so focused on reducing egg mortality?
+Researchers are easily able to access turtle nesting beaches, allowing them to record and monitor fecundity, survival and mortality of hatchlings. The spectacle of watching the baby turtles hatching and running toward the ocean is a widely adored phenomenon and is often  publicized. Conservation efforts were initially set up to recover egg populations after human poaching drastically reduced their numbers. As a result, the focus of turtle conservation has since been on restoring egg populations rather than on the juvenile life stage that would actually increase the population to a restorative measure. 
+
+# 4. What were the main results of this paper?
+The model suggests that juveniles were the most sensitive life stage, suggesting that no matter how much effort conservation management puts into protecting eggs on the beach, this alone cannot restore the population or prevent extinction of the species. Populations of juvenile turtles have been devastated by fishing bycatch, trawls, and stranding events, putting Loggerhead turtles at even further risk of extinction. They simulated a scenario that suggested that even with little egg production, increases in juvenile and adult survival caused the simulated populations to grow. They also expressed the importance of including TEDs on fishing boats and how it would aid in the increase in juvenile and adult turtle survival. 
+
+
+
+*Note please see shared Google Document for in depth figure specific questions used in breakout discussions* 
+
+### Broad Instructor Questions
+
+1. How do you think we need to contextualize and interpret older research in modern science?
+2. Should ecology be divided into applied and theoretical science? 
+
+## Changing Viewpoints
+
+Initially, people vocalized that the information presented in the paper was not groundbreaking in the context of modern research, but later realized it is accessible in its simple comprehensible language. As a result, the paper has an immense value in providing scientists and non-scientists with a strong foundation of ecological knowledge. Additionally, our discussion impacted the class's view of the paper in that our classmates now appreciate how elegantly the paper blended naturalist and applied mathematical aspects of biology. They also developed an appreciation for using old research methods and applying modern technology and data. 
+
+## Connections 
+
+This paper is a representation of displaying the first steps in model-based research and understanding the mechanisms behind conservation ecology. It provides an example of how advancements in science have now outdated the methods of this paper but highlights how they can still hold a valuable role in present science. Past research can act as a great reference for foundational methods for recreation of experiment formats. Additionally, they tend to have simplified explanations of topics which leads to a better understanding of the topic overall and often act as the first steps in a logical tree. This paper is a prime example of the mixing of applied and theoretical ecology. The authors incorporated a theoretical approach in their conservation efforts which were then applied to a conservation management plan toward the protecting life-stage that will increase the population the most. 
+ 
+## Epistemology
+
+We discussed how human knowledge is always limited by technological advancements but taking old research theories and applying them to modern science/technology is an effective way of creating new research and ideas. Additionally, we discussed how in fields such as pure mathematics it can be quite difficult to create novel research as this field requires such an immense understanding of all aspects of mathematics in depth. However, in ecology, there are still a lot of unknowns and one does not need to understand the entire field in such depth to make a novel discovery. 
+
+## How Science Happens
+
+We talked about the benefits of having a collaboration of individuals on a scientific project that all bring specialized knowledge to the table rather than a single “jack of all trades” researcher. This strategy could lead to more efficient and rigorous science that pushes the boundaries of ecology rather than repeating known study designs on different systems. We discussed the value of older studies in providing simple foundational knowledge that is perhaps more accessible and condensed than traditional textbook education. 
